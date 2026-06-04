@@ -4,6 +4,19 @@ SpendSense AI is a smart, modern personal finance tracker built natively for And
 
 # APP APK - https://drive.google.com/file/d/1kqNCuTo6spyOoWDNBh67m8XeTPidYuGL/view?usp=sharing
 
+<img width="360" height="800" alt="SplashScreen" src="https://github.com/user-attachments/assets/581a32f6-a257-4818-bbad-4fa26a50a3da" />
+<img width="360" height="800" alt="TrackerExpense" src="https://github.com/user-attachments/assets/bfacdad2-f838-4237-82e2-b42c2d0a72d8" />
+<img width="360" height="800" alt="AiInsights" src="https://github.com/user-attachments/assets/6e00c550-3921-4451-b03a-75edc2200bfa" />
+<img width="360" height="800" alt="saveMoney" src="https://github.com/user-attachments/assets/8dd22e26-6091-4007-8ce0-f79b32f7f395" />
+<img width="360" height="800" alt="LoginScreen" src="https://github.com/user-attachments/assets/88cf118c-ba86-4358-a887-d6ddf150f5f6" />
+<img width="360" height="800" alt="Login2Screen" src="https://github.com/user-attachments/assets/cbed7995-01d7-4c19-bba4-174099c79e1a" />
+<img width="360" height="800" alt="HomeScreen" src="https://github.com/user-attachments/assets/093003b8-32b1-4069-8685-438dec13087b" />
+<img width="360" height="800" alt="AnalyticsInsights" src="https://github.com/user-attachments/assets/0b6ba006-b359-49c5-b643-637c7bc74a27" />
+<img width="360" height="800" alt="TransactionScreen" src="https://github.com/user-attachments/assets/05d96812-0a57-49bf-8be1-41857d5d117f" />
+<img width="360" height="800" alt="CoachScreen" src="https://github.com/user-attachments/assets/badfb67b-ded2-461a-ac11-31becb51f77b" />
+<img width="360" height="800" alt="ProfileScreen" src="https://github.com/user-attachments/assets/2fca242a-17a7-453c-a584-03bcc7abdd02" />
+
+
 ## ✨ Features
 *   **Smart Expense Tracking:** Easily log and categorize your daily expenses.
 *   **AI Leak Detector:** Powered by the Gemini API, our built-in AI analyzes your transactions to spot unnecessary spending and "money leaks."
