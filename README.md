@@ -13,13 +13,16 @@ SpendSense AI is a smart, modern personal finance tracker built natively for And
 <img width="360" height="800" alt="HomeScreen" src="https://github.com/user-attachments/assets/093003b8-32b1-4069-8685-438dec13087b" />
 <img width="360" height="800" alt="AnalyticsInsights" src="https://github.com/user-attachments/assets/0b6ba006-b359-49c5-b643-637c7bc74a27" />
 <img width="360" height="800" alt="TransactionScreen" src="https://github.com/user-attachments/assets/05d96812-0a57-49bf-8be1-41857d5d117f" />
+<img width="360" height="800" alt="AddReciptTransaction" src="https://github.com/user-attachments/assets/a5d84b3b-dd1d-4186-bf19-e636b2a5c61f" />
 <img width="360" height="800" alt="CoachScreen" src="https://github.com/user-attachments/assets/badfb67b-ded2-461a-ac11-31becb51f77b" />
 <img width="360" height="800" alt="ProfileScreen" src="https://github.com/user-attachments/assets/2fca242a-17a7-453c-a584-03bcc7abdd02" />
+<img width="360" height="800" alt="ProfileScreen2" src="https://github.com/user-attachments/assets/99e37f67-2cb0-44bb-a9af-e1cd191d8f43" />
+<img width="360" height="800" alt="ProfileUploadFromGallery" src="https://github.com/user-attachments/assets/dca45a63-8347-402a-a3a9-efc63fb2378d" />
 
 
 ## ✨ Features
 *   **Smart Expense Tracking:** Easily log and categorize your daily expenses.
-*   **AI Leak Detector:** Powered by the Gemini API, our built-in AI analyzes your transactions to spot unnecessary spending and "money leaks."
+*   **AI Leak Detector:** Powered by the Groq API, our built-in AI analyzes your transactions to spot unnecessary spending and "money leaks."
 *   **AI Savings Goals:** Get dynamic, AI-generated savings goals based on your actual data.
 *   **Interactive Analytics:** Visualize your spending trends with custom-built Compose canvas bar charts.
 *   **Google Authentication:** Secure sign-in using Google Credential Manager and Firebase Auth.
@@ -30,7 +33,7 @@ SpendSense AI is a smart, modern personal finance tracker built natively for And
 *   **UI:** Jetpack Compose, Material Design 3
 *   **Language:** Kotlin
 *   **Architecture:** MVVM (Model-View-ViewModel) + Coroutines & Flows
-*   **AI integration:** Gemini API
+*   **AI integration:** Groq API
 *   **Backend Services:** Firebase Authentication, Firebase Cloud Storage
 *   **Media Loading:** Coil
 
@@ -39,7 +42,6 @@ SpendSense AI is a smart, modern personal finance tracker built natively for And
 ### Prerequisites
 1. Android Studio (Latest stable version recommended)
 2. A Firebase project configured for Android
-3. A Google AI Studio Gemini API Key
 
 ### Installation Setup
 1. **Clone the repository:** 
