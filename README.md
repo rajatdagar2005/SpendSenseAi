@@ -2,6 +2,8 @@
 
 SpendSense AI is a smart, modern personal finance tracker built natively for Android using Kotlin and Jetpack Compose. It leverages the power of AI to analyze your spending habits, detect "money leaks", and provide actionable savings goals.
 
+# APP APK - https://drive.google.com/file/d/1kqNCuTo6spyOoWDNBh67m8XeTPidYuGL/view?usp=sharing
+
 ## ✨ Features
 *   **Smart Expense Tracking:** Easily log and categorize your daily expenses.
 *   **AI Leak Detector:** Powered by the Gemini API, our built-in AI analyzes your transactions to spot unnecessary spending and "money leaks."
