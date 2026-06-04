@@ -38,9 +38,6 @@ SpendSense AI is a smart, modern personal finance tracker built natively for And
 4. **API Key Setup:** Set up your Gemini AI API Key in your environment variables/secrets panel or `.env` configuration.
 5. **Run the App:** Sync Gradle and run the app on an Android emulator or physical device.
 
-## 📱 Visuals
-*(Note: Be sure to upload the custom generated artwork—Logo, AI Insights, Save Money, and Track Expense 3D renders—and dashboard screenshots here!)*
-
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
